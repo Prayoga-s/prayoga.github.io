@@ -1,0 +1,6 @@
+site_name: Prayoga
+site_url: https://prayogalab.github.io/home/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
